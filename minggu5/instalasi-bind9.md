@@ -37,3 +37,23 @@ Berikut langkah-langkah instalasi dan konfigurasi dari bind9
 ![masuk ke nano editor resolv.cof](../assets/nano-etc-resolv-conf.png)
 
 ![cek konfigurasi](../assets/checkconf-named.conf.png)
+
+![cek zone local](../assets/checkzone-db.kelompok1.local.png)
+
+![cek zone local invers](../assets/checkzone-db.kelompok1.local.inv.png)
+
+![systemctl restart](../assets/systemctl-restart.png)
+
+![systemctl status](../assets/systemctl-status.png)
+
+![dig kelompok1.local](../assets/dig-kelompok1.local.png)
+
+![](../assets/dig-kelompok1.local-result.png)
+
+![dig -x 192.168.1.10](../assets/dig--x-192.168.1.10.png)
+
+![](../assets/dig--x-192.168.1.10-result.png)
+
+![nslookup ns](../assets/nslookup-ns.png)
+
+![](../assets/nslookup-ns-result.png)
